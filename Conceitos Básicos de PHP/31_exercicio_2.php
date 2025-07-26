@@ -1,7 +1,7 @@
 <?php
 
 echo "Eu gosto de biscoito";
-Echo "Escola do amanhã"
-ECHO "test"
+Echo "Escola do amanhã";
+ECHO "test";
 
 ?>

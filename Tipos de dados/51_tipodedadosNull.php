@@ -1,0 +1,11 @@
+<?php
+
+echo Null;
+
+$nome = NULL;
+
+if(is_null($nome)){
+    echo "O valor é nulo!";
+}
+
+?>
